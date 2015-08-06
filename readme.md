@@ -1,8 +1,6 @@
 # Project 2 Code Review
 
-We will be doing a code review on each others projects! We'll be breaking up into groups of 4.
-
-Each group will be further subdivided into 2 pair programming teams for this exercise.
+We will be doing a code review on each others projects! We'll be breaking up into groups of 2.
 
 # Objective
 - This is not a time in which to implement new features.
@@ -20,18 +18,20 @@ Each group will be further subdivided into 2 pair programming teams for this exe
 
 ## First 25 minutes
 1. Pick someone to be the driver. The other person in the pair will navigate.
-2. That driver will fork their partner's project
-3. Then you as a pairing team, will submit a pull request with improvements to that person's project
+2. That driver will fork their partner's project.
+3. Together you will refactor to make the code base better.
 
 ## Second 25 minutes
-1. Swap do the same thing
+1. Swap driver and navigator.
+2. Continue to refactor original person's code.
+3. Submit a pull request to person's code.
 
 ## Break 10 minutes
 
 ## Third 25 minutes
-1. After you've finished both code bases in your pair. Move on to 1 of the other 2 members in your group.
-2. Fork that person's code and submit a pull request with improvements.
+1. The current driver will now fork the navigator's code .
+2. Follow the same process.
 
 ## Last 25 minutes
-1. Move on the last member of your groups project that you haven't seen yet.
-2. Fork that person's code and submit a pull request with improvements.
+1. Swap driver and navigator.
+2. Follow the same process.
