@@ -1,10 +1,20 @@
 # Project 2 Code Review
 
-We will be doing a code review on each others projects! We'll be breaking up into groups of 2.
+For this exercise, we'll be forming pairs, and reviewing each other on each
+others projects!
 
-# Objective
-- This is not a time in which to implement new features.
-- This is a time to refactor
+The goal is to take some time to improve your code, with the help of a dedicated
+second pair of eyes. Each team member will get ~50 minutes of help improving
+their code.
+
+**Note**: you should **not** be implementing any new functionality during this
+exercise, only **refactoring existing code / features.**
+
+## Before You Begin
+Push the latest copy of your project to GitHub, so we can give you the most
+accurate feedback possible.
+
+## Objective
 - Imagine trying to get this code presentable to an employer.
 - Focus on code quality/maintainability - Things you could look for:
   - Code Indentation
@@ -16,22 +26,31 @@ We will be doing a code review on each others projects! We'll be breaking up int
     - database queries belongs in controller
     - business logic belongs in model
 
-## First 25 minutes
+## Schedule
+
+### First 25 minutes
+
 1. Pick someone to be the driver. The other person in the pair will navigate.
-2. That driver will fork their partner's project.
-3. Together you will refactor to make the code base better.
+2. That driver will fork/clone their partner's project.
+3. Start refactoring!
 
-## Second 25 minutes
+### Second 25 minutes
+
 1. Swap driver and navigator.
-2. Continue to refactor original person's code.
-3. Submit a pull request to person's code.
+2. Continue refactoring the same code!
+3. Wrap up by submitting a pull request.
 
-## Break 10 minutes
+### Break (10 minutes)
 
-## Third 25 minutes
-1. The current driver will now fork the navigator's code .
-2. Follow the same process.
 
-## Last 25 minutes
+### Third 25 minutes
+
+1. Now switch to the **other person's codebase**. Fork/clone the project.
+2. The driver should be the person who didn't write the code.
+3. Start refactoring!
+
+### Last 25 minutes
+
 1. Swap driver and navigator.
-2. Follow the same process.
+2. Continue refactoring!
+3. Wrap up by submitting a pull request.
