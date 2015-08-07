@@ -32,31 +32,35 @@ accurate feedback possible.
 
 ### 2:00 - 2:15: Retro with your instructor
 
-### 2:15 - 2:40: Begin pairing
+### 2:15 - 2:30: Break
+
+### 2:30 - 2:55: Begin pairing
 
 1. Pick someone to be the driver. The other person in the pair will navigate.
 2. That driver will fork/clone their partner's project.
 3. Start refactoring!
 
-### 2:40 - 3:05: Swap drivers
+### 2:55 - 3:20: Swap drivers
 
 1. Swap driver and navigator.
 2. Continue refactoring the same code!
 3. Wrap up by submitting a pull request.
 
-### 3:05 - 3:15: Break
+### 3:20 - 3:30: Break
 
-### 3:15 - 3:40: Switch codebases
+### 3:30 - 3:55: Switch codebases
 
 1. Now switch to the **other person's codebase**. Fork/clone the project.
 2. The driver should be the person who didn't write the code.
 3. Start refactoring!
 
-### 3:40 - 4:05: Swap drivers
+### 3:55 - 4:20: Swap drivers
 
 1. Swap driver and navigator.
 2. Continue refactoring!
 3. Wrap up by submitting a pull request.
 
-### 3:50 - 4:00: Break
+### 4:20 - 4:30: Break
+
+### 4:30: Feedback and homework
 
