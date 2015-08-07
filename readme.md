@@ -28,29 +28,35 @@ accurate feedback possible.
 
 ## Schedule
 
-### First 25 minutes
+### 1:45 - 2:00: Framing today and next week
+
+### 2:00 - 2:15: Retro with your instructor
+
+### 2:15 - 2:40: Begin pairing
 
 1. Pick someone to be the driver. The other person in the pair will navigate.
 2. That driver will fork/clone their partner's project.
 3. Start refactoring!
 
-### Second 25 minutes
+### 2:40 - 3:05: Swap drivers
 
 1. Swap driver and navigator.
 2. Continue refactoring the same code!
 3. Wrap up by submitting a pull request.
 
-### Break (10 minutes)
+### 3:05 - 3:15: Break
 
-
-### Third 25 minutes
+### 3:15 - 3:40: Switch codebases
 
 1. Now switch to the **other person's codebase**. Fork/clone the project.
 2. The driver should be the person who didn't write the code.
 3. Start refactoring!
 
-### Last 25 minutes
+### 3:40 - 4:05: Swap drivers
 
 1. Swap driver and navigator.
 2. Continue refactoring!
 3. Wrap up by submitting a pull request.
+
+### 3:50 - 4:00: Break
+
