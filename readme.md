@@ -28,39 +28,32 @@ accurate feedback possible.
 
 ## Schedule
 
-### 1:45 - 2:00: Framing today and next week
+### 4:00 - 4:30: Review Partner's Code
 
-### 2:00 - 2:15: Retro with your instructor
+Both of you will be working 'solo' on this portion:
 
-### 2:15 - 2:30: Break
+1. Fork your partner's repo
+2. Clone the fork down to your computer
+3. Open the code in atom.
+  * No need to setup the DB or run the app... just look at the code
+4. Spend ~20 minutes leaving comments on your partner's code.
+  * Look for potential bugs, and other things outlined in the [code quality guidelines](code_quality_guidelines.md)
+5. When done, push to github and open a Pull Request
 
-### 2:30 - 2:55: Begin pairing
 
-1. Pick someone to be the driver. The other person in the pair will navigate.
-2. That driver will fork/clone their partner's project.
-3. Start refactoring!
+### 4:30 - 4:45 Discuss Partner A's Code
 
-### 2:55 - 3:20: Swap drivers
+Pick one partner and spend 15 minutes discussing the comments left on that
+partner's code. You can even pair on implementing some suggestions if you have
+time.
 
-1. Swap driver and navigator.
-2. Continue refactoring the same code!
-3. Wrap up by submitting a pull request.
+### 4:45 - 5:00 Discuss Partner B's Code
 
-### 3:20 - 3:30: Break
+Spend 15 minutes discussing the comments left on the other partner's code. You
+can even pair on implementing some suggestions if you have time.
 
-### 3:30 - 3:55: Switch codebases
+### 5:00 - 5:05 Document your PR w/ Instructors
 
-1. Now switch to the **other person's codebase**. Fork/clone the project.
-2. The driver should be the person who didn't write the code.
-3. Start refactoring!
-
-### 3:55 - 4:20: Swap drivers
-
-1. Swap driver and navigator.
-2. Continue refactoring!
-3. Wrap up by submitting a pull request.
-
-### 4:20 - 4:30: Break
-
-### 4:30: Feedback and homework
-
+Each partner should open an issue on **this repo**. In the issue, include a
+link to the Pull Request that you created, and one thing that you learned in
+completing this exercise.
