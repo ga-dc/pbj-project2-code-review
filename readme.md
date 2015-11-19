@@ -1,18 +1,18 @@
 # Project 2 Code Review
 
-For this exercise, we'll be forming pairs, and reviewing each other on each
-others projects!
+For this exercise, we'll be forming pairs, and reviewing each other on our
+projects!
 
 The goal is to take some time to improve your code, with the help of a dedicated
-second pair of eyes. Each team member will get ~50 minutes of help improving
+second pair of eyes. Each team member will get ~40 minutes of help improving
 their code.
 
 **Note**: you should **not** be implementing any new functionality during this
-exercise, only **refactoring existing code / features.**
+exercise, only **reviewing / refactoring existing code.**
 
 ## Before You Begin
-Push the latest copy of your project to GitHub, so we can give you the most
-accurate feedback possible.
+Push the latest copy of your project to GitHub, so your partner can give you the
+most accurate feedback possible.
 
 ## Objective
 - Imagine trying to get this code presentable to an employer.
