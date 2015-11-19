@@ -38,7 +38,9 @@ Both of you will be working 'solo' on this portion:
   * No need to setup the DB or run the app... just look at the code
 4. Spend ~20 minutes leaving comments on your partner's code.
   * Look for potential bugs, and other things outlined in the [code quality guidelines](code_quality_guidelines.md)
-5. When done, push to github and open a Pull Request
+5. When done, add, commit, and push to your fork
+6. Make a pull request from your fork to their repo
+7. Go to **this repo** (`project2-code-review`) and create an issue with a link to your pull request
 
 
 ### 4:30 - 4:45 Discuss Partner A's Code
